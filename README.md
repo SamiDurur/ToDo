@@ -38,14 +38,15 @@ Açıklama:
 
 * Uygulama ilk başladığında kullanıcıya yapmak istediği işlem seçtirilir.
 
-
-```
+  
+  ```
   Lütfen yapmak istediğiniz işlemi seçiniz :) 
   *******************************************
   (1) Board Listelemek
   (2) Board'a Kart Eklemek
   (3) Board'dan Kart Silmek
-  (4) Kart Taşımak```
+  (4) Kart Taşımak
+  ```
 
 
 *(1) Board Listelemek
@@ -114,6 +115,7 @@ Kart bulunamaz ise:
  * Silmeyi sonlandırmak için : (1)
  * Yeniden denemek için : (2)
 ```
+
 ** Aynı isimde birden fazla kart bulunursa her ikisi de silinebilir.
 
 
