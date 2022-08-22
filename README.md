@@ -49,7 +49,7 @@ Açıklama:
   ```
 
 
-*(1) Board Listelemek
+* (1) Board Listelemek
 
 ```
 TODO Line
@@ -83,7 +83,7 @@ TODO Line
  ~ BOŞ ~
 ```
 
-*(2) Board'a Kart Eklemek
+* (2) Board'a Kart Eklemek
 
 ```
  Başlık Giriniz                                  : 
