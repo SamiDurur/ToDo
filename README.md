@@ -39,18 +39,19 @@ Açıklama:
 * Uygulama ilk başladığında kullanıcıya yapmak istediği işlem seçtirilir.
 
 
- ''' Lütfen yapmak istediğiniz işlemi seçiniz :) 
+```
+  Lütfen yapmak istediğiniz işlemi seçiniz :) 
   *******************************************
   (1) Board Listelemek
   (2) Board'a Kart Eklemek
   (3) Board'dan Kart Silmek
-  (4) Kart Taşımak'''
+  (4) Kart Taşımak```
 
 
 *(1) Board Listelemek
 
-'''
- TODO Line
+```
+TODO Line
  ************************
  Başlık      :
  İçerik      :
@@ -79,16 +80,16 @@ Açıklama:
  DONE Line
  ************************
  ~ BOŞ ~
-'''
+```
 
 *(2) Board'a Kart Eklemek
 
-'''
+```
  Başlık Giriniz                                  : 
  İçerik Giriniz                                  :
  Büyüklük Seçiniz -> XS(1),S(2),M(3),L(4),XL(5)  :
  Kişi Seçiniz                                    : 
-'''
+```
 **Büyüklükler Enum olarak saklanmalı. Kart üzerinde gösterilirken XS olarak gösterilmeli. Giriş yapılırken kullanıcıdan 1 alınmalıdır.
 
 
@@ -99,45 +100,45 @@ Açıklama:
 
 * (3) Board'a Kart Silmek
 
-'''
+```
  Öncelikle silmek istediğiniz kartı seçmeniz gerekiyor.
  Lütfen kart başlığını yazınız:  
- '''
+```
 
 
 Kart bulunamaz ise:
 
 
-'''
+```
  Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız.
  * Silmeyi sonlandırmak için : (1)
  * Yeniden denemek için : (2)
-'''
+```
 ** Aynı isimde birden fazla kart bulunursa her ikisi de silinebilir.
 
 
 
 * (4) Kart Taşımak
 
-'''
+```
  Öncelikle silmek istediğiniz kartı seçmeniz gerekiyor.
  Lütfen kart başlığını yazınız:  
-'''
+```
 
 Kart bulunamaz ise:
 
 
-'''
+```
  Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız.
  * İşlemi sonlandırmak için : (1)
  * Yeniden denemek için : (2)
-'''
+```
 
 
 Kart bulunur ise:
 
 
-'''
+```
  Bulunan Kart Bilgileri:
  **************************************
  Başlık      :
@@ -150,7 +151,7 @@ Kart bulunur ise:
  (1) TODO
  (2) IN PROGRESS
  (3) DONE
- '''
+```
 * ** Doğru bir seçim yapılırsa board listelenerek (1) Board Listelemek kullanılarak kullanıcıya gösterilir. Seçim doğru değil ise "Hatalı bir seçim yaptınız!" bilgisi ile işlem sonlandırılabilir.
 
 
